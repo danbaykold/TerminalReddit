@@ -1,2 +1,2 @@
 # TerminalReddit
-Reddit client that work through terminal, make with PRAW and python2
+Reddit client that work through terminal, made with PRAW and python2
